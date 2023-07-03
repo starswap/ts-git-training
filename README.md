@@ -6,7 +6,7 @@ Please note that lots of the code in this repo is deliberately overly verbose an
 
 ## Setup
 
-1. Fork this repository so that you can push the results of your work to your own personal GitHub and practice raising PRs without affecting other people.
+1. Fork this repository so that you can push the results of your work to your own personal GitHub and practice raising PRs without affecting other people. Make sure to fork all branches, not just main.
 2. Clone the fork.
 3. Open the project with an editor of your choice (VS Code recommended).
 4. Ensure you have Node.js >= v16 installed
